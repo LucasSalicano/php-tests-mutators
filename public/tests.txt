@@ -1,0 +1,8 @@
+App (App\Common\App)
+ [x] Check if the customer is adult
+ [x] Make sure the customer is not an adult
+ [x] Check if the customer is 18 years old
+ [x] Check the customers age
+ [x] Check if you can make the sale
+ [x] Check if you can make the sale not adult
+
